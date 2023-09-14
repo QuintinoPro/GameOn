@@ -1,7 +1,7 @@
 <h1 align="center">GameOn</h1>
 
 <p align="center">
- <img src="">
+ <img src="./img/gameonprint.png">
 </p>
 
 <br>
@@ -15,7 +15,7 @@ Este projeto foi desenvolvido utilizando:
 <br>
 
 # Status do projeto
-Finalizado (Versão Desktop e Mobile): 
+Finalizado (Versão Desktop e Mobile): https://quintinopro.github.io/GameOn/
 
 <br>
 
